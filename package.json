@@ -1,5 +1,5 @@
 {
-  "name": "rmvowels",
+  "name": "@rmartinus/rmvowels",
   "version": "0.1.0",
   "description": "Remove vowels from sentences",
   "main": "index.js",
