@@ -1,3 +1,3 @@
-import { removeVowels } from "./removeVowels.mjs";
+import { rmvowels } from "./removeVowels.mjs";
 
-console.log(removeVowels("hello there"));
+export { rmvowels }

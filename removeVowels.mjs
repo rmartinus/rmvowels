@@ -1,6 +1,6 @@
 const vowelMap = {"a": true, "e": true, "i": true, "o":true, "u":true}
 
-function removeVowels(sentence) {
+function rmvowels(sentence) {
     let newSentence = "";
     for (let i = 0; i<sentence.length; i++) {
         let ch = sentence.charAt(i).toLowerCase();
@@ -11,4 +11,4 @@ function removeVowels(sentence) {
     return newSentence;
 }
 
-export { removeVowels }
+export { rmvowels }
