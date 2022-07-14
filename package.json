@@ -1,0 +1,31 @@
+{
+  "name": "rmvowels",
+  "version": "0.1.0",
+  "description": "Remove vowels from sentences",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmartinus/rmvowels.git"
+  },
+  "keywords": [
+    "remove",
+    "rm",
+    "vowel",
+    "vowels",
+    "string",
+    "manipulation"
+  ],
+  "author": "rmartinus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmartinus/rmvowels/issues"
+  },
+  "homepage": "https://github.com/rmartinus/rmvowels#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
